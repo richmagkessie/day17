@@ -5,4 +5,9 @@
 > Registration page
 > Login and Logout pages
 
-Clone and install dependencies to runserver
+##### Clone and install dependencies to runserver
+> Install python3
+> Install django
+> Install django-crispy-forms
+
+
