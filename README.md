@@ -9,5 +9,5 @@
 > Install python3
 > Install django
 > Install django-crispy-forms
-
+see requirements.txt
 
