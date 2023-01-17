@@ -1,3 +1,8 @@
 ## Day 17
 
-Registration page 
+### Backend Engineering with python web framework, Django
+
+> Registration page
+> Login and Logout pages
+
+Clone and install dependencies to runserver
